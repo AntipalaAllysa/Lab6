@@ -1,0 +1,30 @@
+body {
+				background-image: url("jojo.jpg");
+				background-repeat: no-repeat;
+				background-attachment: fixed;
+				background-position: center;  
+				background-color: #f9fbfc;
+				 }
+			h1 {
+				font-family: "Lucida Console";
+				font-size: 100px;
+				color: #051126;
+				font-style: normal;
+				font-variant: normal;
+				font-weight: 800;
+				line-height: 50px;
+               }	
+			div h3{
+				font-family:Arial,Sans-serif;
+				color:black;
+				font-size:30px;
+				text-align:center;
+				border:solid;
+				border-color:black;
+				  }
+			h4 {
+				font-family:Geneva, sans-serif;
+				color:black;
+				font-weight:normal;
+				text-align:center;
+			   }
